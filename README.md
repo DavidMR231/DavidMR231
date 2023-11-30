@@ -11,7 +11,7 @@
 
 ### :man_technologist: Acerca de mí :
 
-Soy Developer Backend.
+Soy desarrollador Back-end.
 
 - 💚Soy **[Platzinauta](https://platzi.com/home)**. **¡Devoto del aprendizaje continuo!** 
 - 🌱 Actualmente estoy mejorando mi aprendizaje sobre **Node.js para la creación de Backend.**
