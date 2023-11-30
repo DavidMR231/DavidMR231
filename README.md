@@ -1,6 +1,6 @@
 <h1 id="header" align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)" height="30px" width="30px"/>
 </h1>
 
 <div align="center">
