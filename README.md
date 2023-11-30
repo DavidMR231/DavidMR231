@@ -34,9 +34,9 @@ Soy desarrollador back-end.
 
 ### :fire: Mis Estadísticas :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DavidMR231&theme=dark&hide_border=FALSO&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DavidMR231&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMr231&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- BLOG-POST-LIST:START -->
 - [Post de Prueba](https://dev.to/itszed0/test-post-490g)
