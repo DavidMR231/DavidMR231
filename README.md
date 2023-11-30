@@ -33,7 +33,7 @@ Soy desarrollador Back-end.
 
 ---
 
-### 🔥: Mis Estadísticas :
+### 🔥 Mis Estadísticas :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&show_icons=true" alt="Estadísticas GitHub de DavidMR231">
