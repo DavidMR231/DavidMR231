@@ -36,7 +36,7 @@ Soy desarrollador back-end.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DavidMR231&theme=dark&hide_border=FALSO&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DavidMR231=Googluu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:START -->
 - [Post de Prueba](https://dev.to/itszed0/test-post-490g)
