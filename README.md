@@ -22,8 +22,7 @@ Soy Developer Backend.
 
 ### :hammer_and_wrench: Languages and Tools  :
 
-<p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<p align="center">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -34,13 +33,20 @@ Soy Developer Backend.
 
 ---
 
-### :fire: My Stats :
-<p align="center"> 
+<h3 align="center"> ###:fire: Mis Estadísticas :</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&show_icons=true" alt="Estadísticas GitHub de DavidMR231">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DavidMR231&theme=dark&hide_border=FALSO&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DavidMR231&theme=dark&hide_border=FALSO&mode=weekly" alt="GitHub Streak">
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark" alt="Top Lenguajes">
+  </a>
 </p>
