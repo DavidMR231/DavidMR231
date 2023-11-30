@@ -1,5 +1,5 @@
 <h1 id="header" align="center">
-  Hey there
+  Hola
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
 </h1>
 
@@ -13,10 +13,10 @@
 
 Soy Developer Backend.
 
--💚Soy Platzinauta . ¡Devoto del aprendizaje continuo!
--🌱 Actualmente estoy mejorando mi aprendizaje sobre Node.js para la creación de Backend.
--🕹️ Me gusta jugar videojuegos.
--📫 Puedes contactarme a morenorojasdavidsantiago@gmail.com
+- 💚Soy **[Platzinauta](https://platzi.com/home)**. **¡Devoto del aprendizaje continuo!** 
+- 🌱 Actualmente estoy mejorando mi aprendizaje sobre **Node.js para la creación de Backend.**
+- 🕹️ Me gusta jugar videojuegos.
+- 📫 Puedes contactarme a **morenorojasdavidsantiago@gmail.com**
 
 ---
 
@@ -33,7 +33,7 @@ Soy Developer Backend.
 
 ---
 
-### :🔥: Mis Estadísticas :
+### 🔥: Mis Estadísticas :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&show_icons=true" alt="Estadísticas GitHub de DavidMR231">
