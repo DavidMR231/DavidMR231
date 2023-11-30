@@ -35,6 +35,7 @@ Soy Developer Backend.
 ---
 
 ### :fire: My Stats :
+<p align="center"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMR231&theme=dark&show_icons=true)
 
@@ -42,3 +43,4 @@ Soy Developer Backend.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
