@@ -13,7 +13,7 @@
 
 Soy Developer Backend.
 
-- 💚Soy **[Platzinauta](https://platzi.com/home)**. Devotee of continuous learning!
+- 💚I am **[Platzinauta](https://platzi.com/home)**. Devotee of continuous learning!
 - 🌱 I am currently improving my learning about **Node.js for Backend creation.**
 - 🕹️ I like to play video games.
 - 📫 You can contact me at **morenorojasdavidsantiago@gmail.com**
