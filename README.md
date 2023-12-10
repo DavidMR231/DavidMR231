@@ -17,7 +17,7 @@
 
 ---
 
-### :man_technologist: Acerca de mí :
+### 👨‍💻: Acerca de mí :
 
 Soy desarrollador Back-end.
 
